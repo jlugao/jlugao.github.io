@@ -9,9 +9,7 @@ tag:
 - Intermediário
 category: blog
 author: jlugao
-description: Vamos descobrir como criar um modelo de usuário personalizado em django.
-Além disso vamos ver como disparar eventos toda vez que um campo many-to-many for
-atualizado e usar essa informação para fazer alguma coisa em nosso projeto
+description: Vamos descobrir como criar um modelo de usuário personalizado em django. Além disso vamos ver como disparar eventos toda vez que um campo many-to-many for atualizado e usar essa informação para fazer alguma coisa em nosso projeto
 ---
 
 Fala pessoal,
